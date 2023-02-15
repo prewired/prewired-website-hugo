@@ -33,3 +33,25 @@ html.dark *::-webkit-scrollbar-thumb {
 html.dark * {
   scrollbar-color: theme("colors.slate.400") theme("colors.slate.600");
 }
+
+.aside-affiliations {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.aside-affiliations img {
+  padding: 0.5em;
+}
+
+figcaption h4 {
+  text-align: center;
+}
+
+@media (min-width:1024px) {
+  .lg\:w-\[1000px\] {
+    width: 1000px
+  }
+  
+}
