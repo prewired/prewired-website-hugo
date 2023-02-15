@@ -53,5 +53,9 @@ figcaption h4 {
   .lg\:w-\[1000px\] {
     width: 1000px
   }
-  
+}
+
+.prose {
+  color: var(--tw-prose-body);
+  max-width: 100ch
 }
