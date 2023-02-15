@@ -1,7 +1,1 @@
-/.idea
-/node_modules
-/exampleSite/public
-/exampleSite/resources/_gen
-/exampleSite/hugo_stats.json
-.DS_Store
-
+node_modules
