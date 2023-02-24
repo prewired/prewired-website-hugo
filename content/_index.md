@@ -27,12 +27,11 @@ title: Prewired - Edinburgh coding club for under 19s
 </div>
 
 <div class="split">
-    <div class="split-piece split-50">
+    <div class="split-piece split-50 center-mobile">
         <h3>What we do</h3>
-        <p>
+        <p class="d-flex flex-column center-mobile mt-3">
             A quick run-down of what happens at our weekly Prewired sessions, frequently asked questions and how you can attend.
-            <br><br>
-            <a class="btn btn-primary" href="/what-we-do">Find out more</a>
+            <a class="btn btn-primary center-mobile mt-3 w-60 text-center" href="/what-we-do">Find out more</a>
         </p>
     </div>
     <div class="split-piece split-center split-50 d-flex">
@@ -51,7 +50,7 @@ title: Prewired - Edinburgh coding club for under 19s
             Passionate but stuck on what to do next? Have a look at our page on learning resources.
             <br>
         </p>
-        <a class="btn btn-primary mb-5" href="/resources">Resources</a>
+        <a class="btn btn-primary mb-5 w-70" href="/resources">Resources</a>
     </div>
     <div class="split-piece min-split-30 split-nopad align-items-center">
         <h4 class="mt-0">volunteering</h4>
@@ -59,7 +58,7 @@ title: Prewired - Edinburgh coding club for under 19s
             We’re always looking for more volunteers! Helping young people learn to code is hugely rewarding.
             <br>
         </p>
-        <a class="btn btn-primary mb-5" href="/volunteering">Volunteer with us</a>
+        <a class="btn btn-primary mb-5 w-70" href="/volunteering">Volunteer with us</a>
     </div>
     <div class="split-piece min-split-30 split-nopad align-items-center">
         <h4 class="mt-0">Sponsoring</h4>
@@ -67,7 +66,7 @@ title: Prewired - Edinburgh coding club for under 19s
             We depend on the generosity of local businesses.
             <br>
         </p>
-        <a class="btn btn-primary mb-5" href="/sponsor">Sponsor</a>
+        <a class="btn btn-primary mb-5 w-70" href="/sponsor">Sponsor</a>
     </div>
 </div>
 

@@ -177,7 +177,7 @@ nav a:hover, nav a:focus {
     padding: 1em;
     padding-left: 1.5em;
     padding-right: 1.5em;
-    font-size: large;
+    /* font-size: normal; */
     /* background-color: var(--prewired-blue-dark); */
     border: none;
 }
@@ -283,6 +283,11 @@ nav a:hover, nav a:focus {
     max-width: 100%;
 }
 
+.center-mobile {
+    text-align: center !important;
+    justify-content: center;
+    align-items: center;
+}
 
 #footer-column-container {
     flex-direction: column;
@@ -314,6 +319,10 @@ nav a:hover, nav a:focus {
     max-width: 200px;
 }
 
+.footer-column > img:last-child {
+    margin-bottom: 2em;
+}
+
 .footer-column a:hover, .footer-column a:focus {
     text-decoration-line: underline;
     text-decoration-thickness: 2px;
@@ -333,8 +342,9 @@ nav a:hover, nav a:focus {
     letter-spacing: 0.1ch;
     font-size: 0.9em;
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: left;
     align-items: start;
     margin-bottom: 1em;
     margin-top: 2em;
@@ -392,6 +402,14 @@ nav a:hover, nav a:focus {
     background-color: rgb(214, 224, 255);
 }
 
+.w-60 {
+    width: 60% !important;
+}
+
+.w-70 {
+    width: 70% !important;
+}
+
 @media screen and (min-width: 600px) {
     .split-piece > .img-container {
         max-height: 400px;
@@ -401,6 +419,12 @@ nav a:hover, nav a:focus {
 @media screen and (min-width: 940px) {
     * {
         font-size: 1.01em;
+    }
+
+    .center-mobile {
+        text-align: initial;
+        justify-content: initial;
+        align-items: initial;
     }
 
     .nav-btn {
