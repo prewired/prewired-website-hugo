@@ -1,88 +1,26 @@
-baseURL = "https://beta.prewired.org/"
-languageCode = "en-gb"
-title = "Prewired"
+baseURL = 'http://beta.prewired.org/'
+languageCode = 'en-gb'
+title = 'Prewired'
 
-# googleAnalytics = "UA-PROPERTY_ID"
-
-[Params]
-  description = "Prewired"
-  # images = ['/digital-garden-logo.png']
-  enableSearch = true
+theme = "prewired"
 
 [menu]
-[[menu.main]]
-  name = 'Home'
-  url = '/'
-  weight = 1
-[[menu.main]]
-  name = 'Information for Guardians'
-  url = '/parents-and-guardians'
-  weight = 2
-[[menu.main]]
-  name = 'Attending Prewired'
-  url = '/attending-prewired'
-  weight = 3
-[[menu.main]]
-  name = 'Volunteering'
-  url = '/volunteering'
-  weight = 4
-[[menu.main]]
-  name = 'Useful Resources'
-  url = '/resources'
-  weight = 5
-[[menu.main]]
-  name = 'Contact'
-  url = '/contact'
-  weight = 6
-[[menu.main]]
-  name = 'Blog'
-  url = '/articles'
-  weight = 7
-[[menu.main]]
-  name = 'About Us'
-  url = '/about-us'
-  weight = 8
-[[menu.main]]
-  name = 'Press and Research'
-  url = '/press-and-research'
-  weight = 8
-[[menu.main]]
-  name = 'Documents'
-  url = '/documents'
-  weight = 10
-[[menu.main]]
-  name = 'Policy'
-  params.header = true
-  weight = 11
-[[menu.main]]
-  name = 'Privacy'
-  url = '/policies/privacy'
-  weight = 12
-[[menu.main]]
-  name = 'Duty mentor'
-  url = '/policies/duty-mentor'
-  weight = 13
-[[menu.main]]
-  name = 'Child protection'
-  url = '/policies/child-protection'
-  weight = 14
-
-[[menu.social]]
-  name = 'Twitter'
-  url = 'https://twitter.com/Prewired'
-  weight = 1
-[[menu.social]]
-  name = 'GitHub'
-  url = 'https://github.com/prewired'
-  weight = 2
-[[menu.social]]
-  name = 'LinkedIn'
-  url = 'https://www.linkedin.com/company/prewired/'
-  weight = 3
-[[menu.social]]
-  name = 'Email'
-  url = 'mailto:hello@prewired.org'
-  weight = 4
+  [[menu.main]]
+    name = "what we do"
+    url = "/what-we-do"
+    weight = 1
+  [[menu.main]]
+    name = "volunteering"
+    url = "/volunteer"
+    weight = 2
+  [[menu.main]]
+    name = "resources"
+    url = "/resources"
+    weight = 3
+  [[menu.main]]
+    name = "about us"
+    url = "/about-us"
+    weight = 4
 
 [markup.goldmark.renderer]
 unsafe= true

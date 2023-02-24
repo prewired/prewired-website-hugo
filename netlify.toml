@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "npm i -g postcss-cli && npm run build"
+command = "hugo serve"
 
 
 [context.production.environment]
