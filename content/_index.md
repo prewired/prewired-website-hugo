@@ -51,7 +51,7 @@ title: Prewired - Edinburgh coding club for under 19s
             Passionate but stuck on what to do next? Have a look at our page on learning resources.
             <br>
         </p>
-        <a class="btn btn-primary" href="/resources">Resources</a>
+        <a class="btn btn-primary mb-5" href="/resources">Resources</a>
     </div>
     <div class="split-piece min-split-30 split-nopad align-items-center">
         <h4 class="mt-0">volunteering</h4>
@@ -59,7 +59,7 @@ title: Prewired - Edinburgh coding club for under 19s
             We’re always looking for more volunteers! Helping young people learn to code is hugely rewarding.
             <br>
         </p>
-        <a class="btn btn-primary" href="/volunteering">Volunteer with us</a>
+        <a class="btn btn-primary mb-5" href="/volunteering">Volunteer with us</a>
     </div>
     <div class="split-piece min-split-30 split-nopad align-items-center">
         <h4 class="mt-0">Sponsoring</h4>
@@ -67,7 +67,7 @@ title: Prewired - Edinburgh coding club for under 19s
             We depend on the generosity of local businesses.
             <br>
         </p>
-        <a class="btn btn-primary" href="/sponsor">Sponsor</a>
+        <a class="btn btn-primary mb-5" href="/sponsor">Sponsor</a>
     </div>
 </div>
 

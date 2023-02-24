@@ -14,7 +14,7 @@
     --nav-height: 4em;
 
     font-family: 'Open Sans', sans-serif;
-    font-size: 1.03em;
+    font-size: 0.975em;
 
     box-sizing: border-box;
 }
@@ -170,7 +170,7 @@ nav a:hover, nav a:focus {
 .nav-btn {
     position: absolute;
     top: 1em;
-    right: 3em;
+    right: 1em;
 }
 
 .btn {
@@ -197,7 +197,6 @@ nav a:hover, nav a:focus {
     align-items: start;
     flex-direction: column;
     width: 100%;
-    margin-bottom: 2em;
 }
 
 .split-center {
@@ -244,9 +243,8 @@ nav a:hover, nav a:focus {
     width: 100%;
     max-height: 200px;
     overflow: hidden;
-    border-radius: 10px;
-    margin-top: 0;
-    margin-bottom: 0;
+    margin-top: 2em;
+    margin-bottom: 2em;
 }
 
 .banner-container {
@@ -254,7 +252,6 @@ nav a:hover, nav a:focus {
 }
 
 .banner-container > img {
-    border-radius: 10px;
     width: 100%;
     -webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
     -moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
@@ -368,6 +365,7 @@ nav a:hover, nav a:focus {
 .message-banner {
     width: 100%;
     padding: 1em;
+    margin-bottom: 2em;
     border-radius: 5px;
     text-align: center;
 }
@@ -401,6 +399,10 @@ nav a:hover, nav a:focus {
 }
 
 @media screen and (min-width: 940px) {
+    * {
+        font-size: 1.01em;
+    }
+
     .nav-btn {
         display: none;
     }
@@ -415,6 +417,10 @@ nav a:hover, nav a:focus {
         margin-bottom: 0;
     }
 
+    .message-banner {
+        margin-bottom: initial;
+    }
+
     #nav-logo-container {
         height: var(--nav-height);
     }
@@ -423,7 +429,11 @@ nav a:hover, nav a:focus {
         /* height: var(--nav-height); */
         max-height: initial;
     }
-    
+
+    .split-piece > .img-container {
+        margin-top: initial;
+        border-radius: 10px;
+    } 
 
     #nav-container {
         margin-bottom: 3em;
@@ -438,6 +448,10 @@ nav a:hover, nav a:focus {
     nav a {
         justify-content: center;
         align-items: center;
+    }
+
+    .banner-container > img {
+        border-radius: 10px;
     }
 
     .split-piece {
@@ -566,7 +580,7 @@ nav a:hover, nav a:focus {
         flex-direction: row;
         /* padding: 1em; */
         margin-top: 2em;
-        margin-bottom: 2em;
+        margin-bottom: initial;
     }
 
     #footer-column-container {
@@ -585,17 +599,17 @@ nav a:hover, nav a:focus {
     .footer-social > a {
         margin-bottom: 0;
     }
-
-    /* .footer-column > img {
-        margin-top: 2em;
-        padding-left: 2em;
-    } */
 }
 
 @media screen and (max-width: 1000px) {
     .container {
-        width: 90%;
+        --bs-gutter-x: 0;
+        --bs-gutter-y: 0;
+        width: 100%;
         max-width: initial;
+
+        padding-left: 1em;
+        padding-right: 1em;
     }
 }
 
