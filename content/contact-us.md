@@ -1,5 +1,5 @@
 ---
-title: Contact prewired
+title: Contact Prewired
 layout: "normal"
 ---
 

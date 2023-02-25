@@ -12,16 +12,16 @@ Please drop us an email before showing up, so we know who to expect &mdash; hell
 
 #### How we work
 
-<div class="split">
+<div class="split justify-content-start align-items-start">
+    <div class="split-piece split-50">
+        <p style="padding-left: 0;">
+            Prewired is largely unstructured and our main goal is to support the young people in learning whatever it is they want to learn. So volunteering at Prewired consists mostly of wandering around a room full of budding hackers, answering questions, helping to fix bugs, and actively checking on the kids to make sure they’re happy and learning. You don’t need to come every week, but it’s helpful for the kids to have some consistency, so we’d love it if you could come as often as possible.
+        </p>
+    </div>
     <div class="split-piece split-center split-50 d-flex">
         <div class="img-container">
             <img src="/assets/images/misc/lego.jpg" alt="Mentors and volunteers interacting with a Lego Mindstorm robot.">
         </div>
-    </div>
-    <div class="split-piece split-50">
-        <p>
-            Prewired is largely unstructured and our main goal is to support the young people in learning whatever it is they want to learn. So volunteering at Prewired consists mostly of wandering around a room full of budding hackers, answering questions, helping to fix bugs, and actively checking on the kids to make sure they’re happy and learning. You don’t need to come every week, but it’s helpful for the kids to have some consistency, so we’d love it if you could come as often as possible.
-        </p>
     </div>
 </div>
 

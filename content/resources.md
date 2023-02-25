@@ -1,17 +1,19 @@
 ---
-title: learning resources
+title: Learning resources
 layout: "normal"
 ---
 
-This page contains a bunch of links to useful learning resources. We will expand this list and try to make it more useful as we go along, so please let us know which bits you find useful (or not), and make suggestions for new things that should be added!
-
-We have also produced a [Programming and Computing FAQ](/computingfaq) to give you a quick overview.
-
 ---
 
-**Note** Although we are happy to receive suggestions for new resources, as a matter of policy we do not post links to sites which have mainly paid-for content or whose main goal is commercial rather than educational.
+This page contains a bunch of links to useful learning resources. We do our best to keep it updated, so please let us know if you have any suggestions or feedback!
 
----
+If you're just getting started and what like a quick overview of common programming / computing terms, we've produced a [getting started with computing FAQ](/computing-faq).
+
+<div class="message-banner message-warning">
+    <p>
+        <b>Note:</b> Although we are happy to receive suggestions for new resources, as a matter of policy we do not post links to sites which have mainly paid-for content or whose main goal is commercial rather than educational.
+    </p>
+</div>
 
 #### Starting with Scratch
 

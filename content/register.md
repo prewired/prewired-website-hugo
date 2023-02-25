@@ -5,9 +5,15 @@ layout: "normal"
 
 ---
 
-If you haven't already, we recommend reading our summary of [what we do](/what-we-do) before registering. 😃
+<div class="message-banner message-warning">
+    <p>
+        If you haven't already, we recommend reading our summary of <a href="/what-we-do">what we do</a> before registering. 😃
+        <br>
+        <b>Please note</b> that child younger than 11 years old <b>must</b> be accompanied by a guardian.
+    </p>
+</div>
 
----
+#### How to register
 
 If you would like to attend Prewired, please:
 

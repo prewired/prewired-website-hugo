@@ -7,19 +7,15 @@ A quick run-down on how Prewired operates.
 
 ---
 
-Prewired is a registered non-profit, operated and run by volunteers from student and industry backgrounds to provide a weekly unstructured space for under 19s to explore their interest in technology in a safe and supported environment.
-
----
-
-You can [click here to skip to registration](/register).
-
----
+<div class="message-banner message-info">
+    <p>
+        You can <a href="/register">click here to skip to registration</a>.
+    </p>
+</div>
 
 #### What makes Prewired different
 
-Prewired differs from our partner organisations by providing an encouraging environment for attendees to explore their personal interests, rather than through prepared workshops or classes.
-
-We've found that many young people enjoy investigating technology at their own pace, or maybe go down more niche paths which we wouldn't cover in a workshop! We've had attendees:
+Prewired differs from our partner organisations by providing an encouraging, yet unstructured environment for attendees to explore their personal interests in technology, rather than through prepared workshops or classes. We've found that many young people enjoy investigating technology at their own pace, or maybe go down more niche paths which we wouldn't cover in a workshop! We've had attendees:
 
 - Create digital music using Raspberry Pis
 - Create Source Engine maps
@@ -27,15 +23,13 @@ We've found that many young people enjoy investigating technology at their own p
 - Programming Lego Mindstorm robots (we have a few)
 - Investigate programming a bare-bones OS from scratch (not easy!)
 
-Our volunteers will provide as much or as little support as requested. While we're not teachers or personal tutors, we'll happily explain concepts, troubleshoot and guide attendees down interesting paths.
-
 Occasionally we do run structured **workshops** to introduce attendees to a new topic they may not have considered before. Over the summer we sometimes hold **hackathons**, where the kids are challenged to meet specific goals in a set amount of time; this is a really fun learning experience, with concrete outcomes. In the past, we have formed teams to take part in national **events** like [the First Lego League](http://www.firstlegoleague.org/) or [Young Rewired State](https://yrs.io).
 
 Prewired is also a place for young people to **meet peers** with shared interests which they can develop together. For some, it can be difficult to interest friends and family in computing, which may lead to a feeling of isolation. It can be hard to figure out where to go next when there's no-one you can ask. We want to let young people know that there's a **huge community** of like-minded people who are waiting to welcome them.
 
-#### What we do
+#### Who is Prewired for
 
-<div class="split">
+<div class="split justify-content-start align-items-start">
     <div class="split-piece split-50">
         <p style="padding-left: 0">
             If you/your child has shown an interest in learning to code, or just always seems to be on the computer, then there's a lot to get out of Prewired.<br><br>
@@ -52,7 +46,7 @@ Prewired is also a place for young people to **meet peers** with shared interest
 
 #### Session rundown
 
-At the start each session we'll ask attendees (and guardians if attending) to sign in at the door with a volunteer. We'll ask your name and check you off on our Eventbrite list. Please make sure you've registered for the session in advance.
+At the start each session we'll ask attendees (and guardians if attending) to sign in at the door with a volunteer. We'll ask your name and check you off on our attendee list. Please make sure you've registered for the session in advance.
 
 If you're new, please let us know! One of our volunteers will explain how the session works and get you set up with a laptop if needed. They'll help you find a place to sit and make sure you've got an idea of what you want to get stuck into.
 
@@ -107,10 +101,6 @@ Please see our [privacy policy](/policy/privacy).
 #### Any other questions?
 
 Please email hello@prewired.org or visit [contact us](/contact-us) and we'll be happy to answer them.
-
-<br>
-
----
 
 #### Ready to register?
 

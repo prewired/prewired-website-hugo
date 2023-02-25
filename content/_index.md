@@ -12,7 +12,7 @@ title: Prewired - Edinburgh coding club for under 19s
         <h3>Welcome to</h3>
         <h1 role="heading">Prewired</h1>
         <p>
-            Prewired is an Edinburgh-based coding and hacking space for under 19s, located in CodeBase.<br><br>
+            An Edinburgh programming club for under 19s.<br><br>
             If you're interested in learning to code, or want support taking your passion further, you're in the right place!
         </p>
     </div>
@@ -43,39 +43,45 @@ title: Prewired - Edinburgh coding club for under 19s
 
 ---
 
-<div class="split align-items-start justify-content-between pt-4">
-    <div class="split-piece min-split-30 split-nopad align-items-center">
-        <h4 class="mt-0">resources</h4>
-        <p class="text-center">
-            Passionate but stuck on what to do next? Have a look at our page on learning resources.
-            <br>
-        </p>
-        <a class="btn btn-primary mb-5 w-70" href="/resources">Resources</a>
+<div class="split align-items-start justify-content-between pt-4 align-items-stretch">
+    <div class="split-piece min-split-30 split-nopad align-items-center justify-content-between">
+        <div class="d-flex justify-content-center align-items-center flex-column">
+            <h4 class="mt-0">resources</h4>
+            <p class="text-center split-nopad">
+                Passionate but stuck on what to do next? Have a look at our page on learning resources.
+                <br>
+            </p>
+        </div>
+        <a class="btn btn-primary mt-2 mb-5 w-70" href="/resources">Resources</a>
     </div>
-    <div class="split-piece min-split-30 split-nopad align-items-center">
-        <h4 class="mt-0">volunteering</h4>
-        <p class="text-center">
-            We’re always looking for more volunteers! Helping young people learn to code is hugely rewarding.
-            <br>
-        </p>
-        <a class="btn btn-primary mb-5 w-70" href="/volunteering">Volunteer with us</a>
+    <div class="split-piece min-split-30 split-nopad align-items-center justify-content-between">
+        <div class="d-flex justify-content-center align-items-center flex-column">
+            <h4 class="mt-0">volunteering</h4>
+            <p class="text-center split-nopad">
+                We’re always looking for more volunteers! Helping young people learn to code is hugely rewarding.
+                <br>
+            </p>
+        </div>
+        <a class="btn btn-primary mt-2 mb-5 w-70" href="/volunteering">Volunteer with us</a>
     </div>
-    <div class="split-piece min-split-30 split-nopad align-items-center">
-        <h4 class="mt-0">Sponsoring</h4>
-        <p class="text-center">
-            We depend on the generosity of local businesses.
-            <br>
-        </p>
-        <a class="btn btn-primary mb-5 w-70" href="/sponsor">Sponsor</a>
+    <div class="split-piece min-split-30 split-nopad align-items-center justify-content-between">
+        <div class="d-flex justify-content-center align-items-center flex-column">
+            <h4 class="mt-0">Sponsoring</h4>
+            <p class="text-center split-nopad">
+                We depend on the generosity of local businesses.
+                <br>
+            </p>
+        </div>
+        <a class="btn btn-primary mt-2 mb-5 w-70" href="/sponsor">Sponsor</a>
     </div>
 </div>
 
 ---
 
 <br>
-<div class="split-piece">
+<div class="split-piece center-mobile ">
     <h3>Sponsors & supporters</h3>
-    <p class="pt-4">
+    <p class="pt-4 center-mobile ">
         In addition to the accommodation generously provided by <a href="https://www.thisiscodebase.com/">CodeBase</a>, Prewired is grateful for the support it has received from sponsors.
     </p>
     <div class="sponsor-logo-container w-100 pt-4">
