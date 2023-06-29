@@ -18,8 +18,7 @@ A quick run-down on how Prewired operates.
 Prewired differs from our partner organisations by providing an encouraging, yet unstructured environment for attendees to explore their personal interests in technology, rather than through prepared workshops or classes. We've found that many young people enjoy investigating technology at their own pace, or maybe go down more niche paths which we wouldn't cover in a workshop! We've had attendees:
 
 - Create digital music using Raspberry Pis
-- Create Source Engine maps
-- Bring machines in to troubleshoot
+- Create Source Engine maps with Hammer
 - Programming Lego Mindstorm robots (we have a few)
 - Investigate programming a bare-bones OS from scratch (not easy!)
 

@@ -9,7 +9,7 @@ A summary of Prewired's motivations, structure and history.
 
 #### Why do we do this?
 
-Many schools do not yet offer appropriate computing classes, and curricula that do exist can be patchy. The technology industry is an ever growing one, and at the moment there are more software engineering (and similar) jobs in the world than there are people qualified to fill them. It would be terrible if gifted and enthusiastic young people were deterred from pursuing computing qualifications and roles because they were not aware of the opportunities available. We feel that this is too important and urgent to wait for schools to catch up.
+Many schools still do not offer appropriate computing classes, and curricula that do exist can be patchy. The technology industry is an ever growing one, and at the moment there are more software engineering (and similar) jobs in the world than there are people qualified to fill them. It would be terrible if gifted and enthusiastic young people were deterred from pursuing computing qualifications and roles because they were not aware of the opportunities available. We feel that this is too important and urgent to wait for schools to catch up.
 
 But learning to code doesn't only qualify you to be a coder. As our world becomes increasingly technologically-oriented, understanding the process of creating the software that powers our daily lives becomes crucial for everyone. Becoming an empowered digital citizen &mdash; or professional in another industry &mdash; allows people to navigate their rights and responsibilities and make informed decisions about the products and services they use, or provide to others.
 
@@ -23,25 +23,25 @@ We think technology can help us towards a better world, but only if future gener
 #### Participants and Volunteers
 
 The full roster of regular Prewired attendees comprises around 40 young people. In a typical evening session, we will host around 25 regulars and another handful who are new or who drop in more occasionally.
-Running Prewired sessions on a regular basis has only been made possible with the voluntary support of a core group of around half a dozen dedicated volunteers, drawn from students at Edinburgh, Napier and Heriot Watt Universities;
+Running Prewired sessions on a regular basis has only been made possible with the voluntary support of a core group of around half a dozen dedicated volunteers, drawn from students at Edinburgh, Napier and Heriot-Watt Universities;
 independent developers; and by staff from local tech companies. 
 
 #### Management Committee
 
 Prewired became a Scottish Charity (SC047780) in September 2017. The Board of Trustees currently has the following members:
 
-| Name                  | Position        |
-|-----------------------|-----------------|
-| Benjamin Milne        | Chairperson     |
-| Yula Syahrial         | Treasurer       |
-| Kelly Gardner         | Secretary       |
-| Charlotte Holland     | Social Media    |
-| Helen Williams        | Trustee         |
-| Cameron Gray          | Trustee         |
-| Claire Wheelan        | Trustee         |
-| Athina Frantzana      | Trustee         |
-| Jelmer van der Linde  | Trustee         |
-| Chuks Ododo           | Trustee         |
+| Name                  | Position        | Social |
+|-----------------------|-----------------|--------|
+| Benjamin Milne        | Chairperson     | [LinkedIn](https://www.linkedin.com/in/bcjmilne/) |
+| Yula Syahrial         | Treasurer       | |
+| Kelly Gardner         | Secretary       | |
+| Charlotte Holland     | Social Media    | |
+| Helen Williams        | Trustee         | |
+| Cameron Gray          | Trustee         | |
+| Claire Wheelan        | Trustee         | |
+| Athina Frantzana      | Trustee         | |
+| Jelmer van der Linde  | Trustee         | |
+| Chuks Ododo           | Trustee         | |
 
 #### Brief History
 
