@@ -4,7 +4,12 @@
             <!-- <span id="nav-logo-text" class="d-flex justify-content-center align-items-center">Prewired</span> -->
             <img id="nav-logo" src="/assets/images/logos/prewired-open-sans-logo.svg" alt="Prewired logo without text"/>
         </a>
-        <nav id="nav" class="nav justify-content-end" style="display: flex;">
+        <a  href="javascript:void(0);" 
+        onclick="toggleNav()"
+        class="nav-btn btn btn-primary">
+            Menu
+        </a>
+        <nav id="nav" class="nav justify-content-end" style="display: none;">
             {{ range .Site.Menus.main }}
             <a class="nav-link d-flex" href="{{ .URL }}">
             {{ $text := print .Name | safeHTML }}
