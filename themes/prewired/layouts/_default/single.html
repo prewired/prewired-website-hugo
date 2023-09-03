@@ -1,6 +1,11 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-{{ partial "metadata.html" . }}
-<br><br>
-{{ .Content }}
+<main class="container">
+    <a href="/posts">&lt;&lt; Back to posts</a><br><br>
+    <h2>{{ .Title }}</h2>
+    {{ partial "metadata.html" . }}
+    <hr>
+    {{ .Content }}
+    <br>
+    <a href="/posts">&lt;&lt; Back to posts</a>
+</main>
 {{ end }}

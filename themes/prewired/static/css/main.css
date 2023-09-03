@@ -60,6 +60,7 @@ a:focus {
 #nav-border {
     min-height: var(--nav-height);
     background-color: var(--prewired-purple-light);
+    margin-bottom: 1em;
 }
 
 #nav-container {
@@ -67,9 +68,8 @@ a:focus {
     height: 100%;
     display: flex;
     flex-direction: column;
-    /* padding-bottom: 1em; */
-    margin-bottom: 2em;
-    padding-bottom: 1em;
+    margin-bottom: 0;
+    padding-bottom: 0;
 }
 
 #nav-logo-container {
@@ -314,7 +314,8 @@ nav a:hover, nav a:focus {
     letter-spacing: 0.1ch;
 }
 
-.footer-column > img {
+.footer-column > img,
+.footer-column > a > img {
     margin-top: 2em;
     max-width: 200px;
 }
@@ -375,7 +376,8 @@ nav a:hover, nav a:focus {
 .message-banner {
     width: 100%;
     padding: 1em;
-    margin-bottom: 2em;
+    margin-top: 1em;
+    margin-bottom: 1em;
     border-radius: 5px;
     text-align: center;
 }
@@ -412,6 +414,17 @@ nav a:hover, nav a:focus {
 
 .w-70 {
     width: 70% !important;
+}
+
+figure {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+figure > img {
+    max-width: 100%;
 }
 
 @media screen and (min-width: 600px) {
@@ -456,6 +469,10 @@ nav a:hover, nav a:focus {
         margin-top: initial;
         border-radius: 5px;
     } 
+
+    #nav-border {
+        margin-bottom: 1.5em;
+    }
 
     #nav-container {
         margin-bottom: 3em;

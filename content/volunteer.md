@@ -18,6 +18,10 @@ Let us know a bit about your background and reason for joining! We'll offer a qu
 
 All volunteers are required to complete a [PVG Disclosure](https://www.mygov.scot/pvg-scheme) and register it with Prewired. We will guide you through the associated paperwork, and costs are covered by [Volunteer Scotland](https://www.volunteerscotland.net/). If you already have a PVG Disclosure you will still need to register it with us.
 
+###### Certifications
+
+Currently volunteering at Prewired doesn’t qualify you for any specific awards (except for massive kudos and great experience and references for the CV). However, we’re interested in improving your experience however we can, so if you know of a scheme you think we’d fit into that will help you to earn something more, please let us know.
+
 #### How we work
 
 <div class="split justify-content-start align-items-start">
@@ -34,3 +38,7 @@ All volunteers are required to complete a [PVG Disclosure](https://www.mygov.sco
 </div>
 
 Any and all software and hardware skills are welcome! See [what we do](/what-we-do) for more information.
+
+#### Organising and outreach
+
+If you’re interested in getting more involved in the organising side of things, let us know that too! If you have any specific qualifications, skills or experience (e.g., in education, child services, first-aid, accounting, …), don’t forget to mention that.

@@ -2,7 +2,7 @@
 title: Prewired - Edinburgh coding club for under 19s
 ---
 
-<div class="split">
+<div class="split mt-0">
     <div class="split-piece split-center split-50 d-flex">
         <div class="img-container">
             <img src="/assets/images/misc/luke-at-codebase.jpg" alt="Mentors and attendees milling around at Prewired Edinburgh.">
@@ -18,20 +18,12 @@ title: Prewired - Edinburgh coding club for under 19s
     </div>
 </div>
 
-<div class="message-banner message-alert">
-    <h4>notice: Beta website</h4>
-    <hr>
-    <p>
-        Please be aware that this website is not live. Prewired cannot guarantee the accuracy of any information.
-    </p>
-</div>
-
 <div class="split">
-    <div class="split-piece split-50 center-mobile">
+    <div class="split-piece split-50">
         <h3>What we do</h3>
-        <p class="d-flex flex-column center-mobile mt-3">
+        <p class="d-flex flex-column mt-3">
             A quick run-down of what happens at our weekly Prewired sessions, frequently asked questions and how you can attend.
-            <a class="btn btn-primary center-mobile mt-3 w-60 text-center" href="/what-we-do">Find out more</a>
+            <a class="btn btn-primary mt-3 w-60 text-center" href="/what-we-do">Find out more</a>
         </p>
     </div>
     <div class="split-piece split-center split-50 d-flex">
@@ -62,7 +54,7 @@ title: Prewired - Edinburgh coding club for under 19s
                 <br>
             </p>
         </div>
-        <a class="btn btn-primary mt-2 mb-5 w-70" href="/volunteering">Volunteer with us</a>
+        <a class="btn btn-primary mt-2 mb-5 w-70" href="/volunteer">Volunteer with us</a>
     </div>
     <div class="split-piece min-split-30 split-nopad align-items-center justify-content-between">
         <div class="d-flex justify-content-center align-items-center flex-column">
@@ -87,12 +79,6 @@ title: Prewired - Edinburgh coding club for under 19s
     <div class="sponsor-logo-container w-100 pt-4">
         <a href="https://www.thisiscodebase.com/">
             <img src="/assets/images/logos/codebase-logo.jpg" alt="CodeBase logo"> 
-        </a>
-        <a href="https://www.skyscanner.net/">
-            <img src="/assets/images/logos/skyscanner-logo.png" alt="Skyscanner logo"> 
-        </a>
-        <a href="https://deliveroo.engineering/">
-            <img src="/assets/images/logos/deliveroo-logo.png" alt="Deliveroo logo">
         </a>
     </div>
 </div>

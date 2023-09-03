@@ -9,23 +9,13 @@ Based on the [Digital Garden](https://github.com/apvarun/digital-garden-hugo-the
 - Install prerequisites:
 ```
 sudo apt install hugo
-sudo apt install npm
 ```
 - Clone and navigate into this repository:
 ```
 git clone <repo>
 cd <repo>
 ```
-- Install dependencies:
-```
-npm install
-sudo npm i -g postcss-cli
-```
 - Run development server with:
-```
-npm run dev
-```
-or
 ```
 hugo serve
 ```

@@ -62,7 +62,6 @@ In spring 2014, Prewired became affiliated with [CodorDojo](http://coderdojoscot
 
 In January 2015, faced with the imminent unavailability of Appleton Tower lab space due to refurbishment works, Prewired moved location to [CodeBase](http://thisiscodebase.com), a UK-leading tech incubator based in central Edinburgh, and due to the high level of demand from participants, began offering sessions on weekly basis. One benefit of the move was that staff from tech companies housed in CodeBase have also started to offer volunteering support.
 
-<!-- ![](/assets/images/report_cover.jpg){: .align-left}]({{ base_path }}/pdfs/prewired-for-web.pdf) -->
-To find out more about how we've developed and what we've been doing, read our [annual reports](docs.md).
+To find out more about how we've developed and what we've been doing, read our [annual reports](/docs).
 
 

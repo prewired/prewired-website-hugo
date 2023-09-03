@@ -105,7 +105,6 @@ Note that we cannot remove anonymised data such as age, postcode and ethnicity, 
 
 We may modify this Privacy Policy from time to time and will publish the most current version on our website.
 
-
 ----
 
 *Version 1.4, last revised 29 April 2021*

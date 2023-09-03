@@ -76,3 +76,11 @@ This policy has been drawn up on the basis of legislation, policy and guidance t
 
 Prewired child protection officer   
 Athina Frantzana: cpo@prewired.org
+
+#### Modifications
+
+We may modify this Child Protection Policy from time to time and will publish the most current version on our website.
+
+----
+
+*Version 2.3, last revised 03 April 2022*
